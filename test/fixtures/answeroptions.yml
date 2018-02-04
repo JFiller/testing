@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  question: one
+  user: one
+  content: MyText
+  selected: false
+  deleted: false
+
+two:
+  question: two
+  user: two
+  content: MyText
+  selected: false
+  deleted: false

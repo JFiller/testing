@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mentoring: one
+  user: one
+  role: MyString
+  deleted: false
+
+two:
+  mentoring: two
+  user: two
+  role: MyString
+  deleted: false
